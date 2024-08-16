@@ -1,7 +1,7 @@
 ## Hello World! 👋
-Olá mundo! Boas-vindas a: @dominandointeligencia
+Olá mundo! Boas-vindas ao [@dominandointeligencia](https://linktr.ee/dominandointeligencia)
 
-Domine ou seja dominado pela inteligência artificial!
+<i>"Domine ou seja dominado pela inteligências artificiais!" </i>
 <!--
 
 **Here are some ideas to get you started:**
