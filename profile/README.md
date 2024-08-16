@@ -1,5 +1,5 @@
 ## Hello World! 👋
-Olá mundo! @dominandointeligencia
+Olá mundo! Boas-vindas a: @dominandointeligencia
 
 Domine ou seja dominado pela inteligência artificial!
 <!--
