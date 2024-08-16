@@ -1,7 +1,7 @@
 ## Hello World!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 Olá mundo! Boas-vindas ao [@dominandointeligencia](https://linktr.ee/dominandointeligencia)
 
-<i>"Domine ou seja dominado pela inteligências artificiais!" </i>
+<i>"Domine ou seja dominado por inteligências artificiais!" </i>
 <!--
 
 **Here are some ideas to get you started:**
